@@ -1,0 +1,5 @@
+   0 vi >> /tmp/file.txt
+   1 ps -ef | head -4 >> file.txt
+   2 chmod g+w,u-r,o+rwx file.txt
+   3 ls -l
+   4 history > history_27_02.txt
